@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-source "https://github.com/awesome-print/awesome_print.git"
+source "https://github.com/"
 gem "rspec"
 gem "sinatra", "1.4.4"
 gem "hashie"
